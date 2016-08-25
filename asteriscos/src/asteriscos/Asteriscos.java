@@ -6,7 +6,7 @@ package asteriscos;
 import java.util.Scanner;
 
 /**
- * @author MCarmen (Wonder Woman Blánquez)
+ * @author MCarmen (Wonder Woman codigorana)
  */
  
 public class Asteriscos {
