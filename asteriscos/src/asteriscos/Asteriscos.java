@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * @author MCarmen (Wonder Woman)
  */
- //Hola a todos//
+ 
 public class Asteriscos {
 
     public static void main(String[] args) {
